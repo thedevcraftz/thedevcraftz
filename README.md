@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Aibek 👋
 
-<!--
-**aibekz/aibekz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I’m a Software Engineer with a passion for Web Development.
 
-Here are some ideas to get you started:
+## Skills
+- **JavaScript**
+- **TypeScript**
+- **ReactJS**
+- **NodeJS**
+- **CSS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun Facts
+- I love reading and writing!
+- I'm a coffee enthusiast and enjoy exploring local cafes.
+
+### Let’s build something amazing together! 🚀
+
+📧 [programming@aibek.me](mailto:programming@aibek.me)
