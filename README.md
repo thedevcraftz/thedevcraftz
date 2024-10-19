@@ -1,9 +1,10 @@
 # Hi, I'm Aibek 👋
 
-## About Me
-I’m a Software Engineer with a passion for Web Development.
+## About
 
-## Skills
+Software Engineer with a passion for Web Development.
+
+## Skills 💼
 - **JavaScript**
 - **TypeScript**
 - **ReactJS**
@@ -16,4 +17,4 @@ I’m a Software Engineer with a passion for Web Development.
 
 ### Let’s build something amazing together! 🚀
 
-📧 [programming@aibek.me](mailto:programming@aibek.me)
+📧: contact@aibek.me
