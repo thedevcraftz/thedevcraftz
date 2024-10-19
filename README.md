@@ -1,20 +1,31 @@
 # Hi, I'm Aibek 👋
 
-## About
+## About Me
+I'm a developer based in New York, passionate about creating dynamic web applications! 🌐
 
-Software Engineer with a passion for Web Development.
+---
 
 ## Skills 💼
-- **JavaScript**
-- **TypeScript**
-- **ReactJS**
-- **NodeJS**
-- **CSS**
+Here are some of my core skills:
+- **Languages:**
+  - JavaScript
+  - TypeScript
+- **Frameworks & Libraries:**
+  - ReactJS
+  - NodeJS
+- **Styling:**
+  - CSS
 
-## Fun Facts
-- I love reading and writing!
-- I'm a coffee enthusiast and enjoy exploring local cafes.
+---
 
-### Let’s build something amazing together! 🚀
+## Fun Facts 🎉
+- I love reading and writing! 📚
+- I'm a coffee enthusiast and enjoy exploring local cafes. ☕️
 
-📧: contact@aibek.me
+---
+
+### Let’s build something amazing! 🚀
+
+📧: [contact@aibek.me](mailto:contact@aibek.me)
+
+🌍 [My Portfolio](#) | 💼 [LinkedIn](#) 
