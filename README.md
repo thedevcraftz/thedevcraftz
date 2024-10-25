@@ -1,7 +1,7 @@
 # Hi, I'm Aibek 👋
 
 ## About Me
-I'm a developer based in New York, passionate about creating dynamic web applications! 🌐
+I'm a developer based in New York, passionate about creating meaningful web applications! 
 
 ---
 
